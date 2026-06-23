@@ -29,18 +29,33 @@ Desarrollar una solución tecnológica que mejore la gestión, control y respues
 
 
 -Funcionalidades principales
--Ciudadano
+Ciudadano:
 Registro e inicio de sesión
 Creación de denuncias
 Envío de reportes con información detallada
 Consulta del estado de sus denuncias
--Administrador
+
+
+
+
+
+
+
+Administrador:
 Gestión de denuncias
 Validación de información
 Clasificación de gravedad
 Aprobación o rechazo de casos
 Notificación a usuarios
--Entidad gestora
+
+
+
+
+
+
+
+
+Entidad gestora:
 Recepción de denuncias
 Seguimiento del caso
 Ejecución de soluciones
@@ -98,10 +113,23 @@ Versión móvil
 
 
 
-Roles del equipo
+-Roles del equipo:
+
+
+
+
 Juan Sebastián Pineda Téllez
- Rol: Documentación-
+Rol: Documentación
+
+
+
+
 Wilder Santiago Marulanda
- Rol: Investigador-
+ Rol: Investigador
+
+
+
+
+
 Hellen Sofía Ariza Serna
  Rol: Líder / Desarrollador
