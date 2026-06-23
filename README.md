@@ -6,7 +6,7 @@ El repositorio del proyecto Notiapp
 
 Sistema web para la gestión de denuncias ciudadanas sobre daños ambientales, permitiendo a los usuarios reportar incidentes y a las entidades darles seguimiento hasta su solución.
 
--Interfaz del Sistema
+
 
 
 -Descripción
