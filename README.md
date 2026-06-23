@@ -100,8 +100,8 @@ Versión móvil
 
 Roles del equipo
 Juan Sebastián Pineda Téllez
- Rol: Documentación
+ Rol: Documentación-
 Wilder Santiago Marulanda
- Rol: Investigador
+ Rol: Investigador-
 Hellen Sofía Ariza Serna
  Rol: Líder / Desarrollador
