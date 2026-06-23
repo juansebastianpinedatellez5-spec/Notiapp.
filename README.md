@@ -87,7 +87,7 @@ Notiapp/
 │   ├── estilos.css    # Estilos principales
 │   └── LoEstilo.css   # Estilos adicionales
 │
-├── backend/           # (Futuro) lógica del servidor / API
+├── backend/           # (Futuro) lógica del servidor 
 │   └── app.js o main.py
 │
 ├── db/                # Base de datos
