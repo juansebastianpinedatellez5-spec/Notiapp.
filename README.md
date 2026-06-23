@@ -101,6 +101,7 @@ Notiapp/
 └── .gitignore         # Archivos ignorados por Git
 
 
+<img width="764" height="495" alt="image" src="https://github.com/user-attachments/assets/23e5f9f1-1eb1-4542-93b0-818cc57f2405" />
 
 
 
