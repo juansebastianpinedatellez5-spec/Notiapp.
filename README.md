@@ -76,32 +76,11 @@ Se cierra la denuncia y se notifica
 
 
 
-Notiapp/
-│
-├── frontend/          # Interfaz de usuario (cliente web)
-│   ├── index.html     # Página principal
-│   ├── login.html     # Inicio de sesión
-│   ├── usuario.html   # Registro / perfil de usuario
-│   ├── reporte.html   # Creación de reportes
-│   ├── consularReporte.html # Consulta de reportes
-│   ├── estilos.css    # Estilos principales
-│   └── LoEstilo.css   # Estilos adicionales
-│
-├── backend/           # (Futuro) lógica del servidor 
-│   └── app.js o main.py
-│
-├── db/                # Base de datos
-│   ├── scripts.sql    # Script de creación de la BD
-│   └── esquema.png    # Diagrama de la base de datos
-│
-├── docs/              # Documentación del proyecto
-│   └── Informe_AnalisisDiseño.pdf
-│
-├── README.md          # Documentación principal del proyecto
-└── .gitignore         # Archivos ignorados por Git
+
+<img width="465" height="473" alt="image" src="https://github.com/user-attachments/assets/4b9cf391-1dd2-4765-baa1-1e6c22ee446f" />
 
 
-<img width="764" height="495" alt="image" src="https://github.com/user-attachments/assets/23e5f9f1-1eb1-4542-93b0-818cc57f2405" />
+
 
 
 
